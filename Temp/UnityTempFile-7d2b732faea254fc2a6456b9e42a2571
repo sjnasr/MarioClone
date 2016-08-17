@@ -86,5 +86,6 @@
 -define:CROSS_PLATFORM_INPUT
 'Assets/Scripts/CachingLoadExample.cs'
 'Assets/Scripts/CameraFollow.cs'
+'Assets/Scripts/Pipe001Entry.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
