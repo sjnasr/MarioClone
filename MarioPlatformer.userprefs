@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pipe001Entry.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pipe001Entry.js">
     <Files>
-      <File FileName="Assets/Scripts/Pipe001Entry.cs" Line="26" Column="36" />
+      <File FileName="Assets/Scripts/Pipe001Entry.js" Line="32" Column="51" />
+      <File FileName="Assets/Scripts/Pipe001Entry.cs" Line="8" Column="2" />
       <File FileName="Assets/Scripts/CameraFollow.cs" Line="1" Column="1" />
       <File FileName="Assets/Editor/CreateAssetBundles.cs" Line="1" Column="1" />
       <File FileName="Assets/AssetBundles/level01.manifest" Line="1" Column="1" />
