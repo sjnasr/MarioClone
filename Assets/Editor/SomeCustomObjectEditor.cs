@@ -14,7 +14,9 @@ public class SomeCustomObjectEditor : Editor {
 		color = EditorGUILayout.ColorField ("Color", color);
 
 		if (GUILayout.Button ("Set Vertex Color")) {
-			Debug.Log ("Clicked Button");
+			var customObject = target as SomeCustomObject;
+			var meshFilter = customObject.GetComponent<MeshFilter> ();
+			meshFilter.sharedMesh.setVertexColor (color);
 		}
 	}
 

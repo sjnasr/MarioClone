@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MeshExtensions : MonoBehaviour {
+public static class MeshExtensions {
 
 	public static void setVertexColor(this Mesh mesh, Color color){
 		var vertColors = new Color[mesh.vertexCount];
