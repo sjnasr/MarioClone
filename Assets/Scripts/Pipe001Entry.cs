@@ -5,6 +5,8 @@ public class Pipe001Entry : MonoBehaviour {
 	public GameObject PipeEntry;
 	public int StoodOn;
 
+
+
 	void OnTriggerEnter(Collider col){
 		StoodOn = 1;
 	}
